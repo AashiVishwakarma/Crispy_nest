@@ -21,29 +21,30 @@
     /* background-image: url('https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2021/02/Food-photography-tips-camera-settings.jpg?fit=1500%2C1000&ssl=1'); */
     background-position: bottom;
     background-color: #e84646;
-    color: #050404;
-    background-image: url('https://i.etsystatic.com/9684337/r/il/5c0f82/726795730/il_fullxfull.726795730_km9q.jpg'); 
-    background-color: #4b3e3e;
-    background-size: cover;
-    background-position: center;
-
-  }
-  
-  .header .logo {
-    font-size: 24px;
-    font-weight: bold;
-    color: #100f0f;
-    text-align: center;
-  }
-
- 
-  .hero {
-     background-image: url('https://i.etsystatic.com/9684337/r/il/5c0f82/726795730/il_fullxfull.726795730_km9q.jpg'); 
+    color: #f4e6e6;
+    background-image:  url('https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png'); 
     background-color: #4b3e3e;
     background-size: cover;
     background-position: center;
     padding: 80px 20px;
+
+  }
+  
+  /* .header .logo {
+    font-size: 24px;
+    font-weight: bold;
     color: #100f0f;
+    text-align: center;
+  } */
+
+ 
+  .hero {
+     background-image: url('https://sherohomefood.in/wp-content/uploads/2021/05/SHF_home-slide-1.jpg'); 
+    background-color: #fbf5f5;
+    background-size: cover;
+    background-position: center;
+    padding: 80px 20px;
+    color: #e0d9d9;
     text-align: center;
   }
   
